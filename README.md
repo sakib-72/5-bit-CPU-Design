@@ -1,17 +1,15 @@
 # 5-bit-CPU-Design
 Designing a CPU where-  
 * Word size: 5 bits  
-
-Operations: AND, SHL 
-Register No: 4 
-Size of RAM: 10 
-Word size of RAM & ISA: 18 bits 
-Register mode, Immediate mode, JC 
-
-Here are the screenshots of steps of designing in Logisim
-5-Bit AND
-![5 bit AND](https://user-images.githubusercontent.com/112200299/216246240-4c0a09c8-5981-4731-95b3-f5035f8788d0.PNG)
-5-bit AND chip
+* Operations: AND, SHL  
+* Register No: 4  
+* Size of RAM: 10  
+* Word size of RAM & ISA: 18 bits  
+* Register mode, Immediate mode, JC  
+Here are the screenshots of steps of designing in Logisim  
+#5-Bit AND
+![5 bit AND](https://user-images.githubusercontent.com/112200299/216246240-4c0a09c8-5981-4731-95b3-f5035f8788d0.PNG)  
+#5-bit AND chip
 ![5 bit AND chip](https://user-images.githubusercontent.com/112200299/216246313-90087309-3723-4159-88fe-07f33a5e2091.PNG)
 5-bit SHL
 ![5 bit SHL](https://user-images.githubusercontent.com/112200299/216246373-04f9c341-3d91-450a-bfaf-e145aea489d9.PNG)
