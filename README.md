@@ -5,7 +5,7 @@ Operations: AND, SHL
 Register No: 4 
 Size of RAM: 10 
 Word size of RAM & ISA: 18 bits 
-Register mode, Immediate mode, JC
+Register mode, Immediate mode, JC 
 
 Here are the screenshots of steps of designing in Logisim
 5-Bit AND
