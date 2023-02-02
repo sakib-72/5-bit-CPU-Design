@@ -1,6 +1,6 @@
 # 5-bit-CPU-Design
 Designing a CPU where-  
-*Word size: 5 bits  
+* Word size: 5 bits  
 
 Operations: AND, SHL 
 Register No: 4 
